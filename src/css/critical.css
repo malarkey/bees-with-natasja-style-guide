@@ -6,8 +6,9 @@
 * Generated via: https://www.fluid-type-scale.com/
 */
 
---font-family-default: "gloock-regular", serif;
---font-family-alt: "ephesis-regular", sans-serif;
+--font-family-default: "noto-serif", serif;
+--font-family-alt: "gloock-regular", serif;
+--font-family-accent: "ephesis-regular", cursive;
 
 /* Fluid font scale - scales between min/max viewports */
 
@@ -29,11 +30,11 @@
 * Light theme with accent colors for visual hierarchy
 */
 
---color-primary-default: #C27B52;
---color-primary-light: #D4A386;
---color-primary-lightest: #E7CABA;
---color-primary-dark: #AF6F4A;
---color-primary-darkest: #885639;
+--color-primary-default: #B84604;
+--color-primary-light: #CD7E4F;
+--color-primary-lightest: #E3B59B;
+--color-primary-dark: #933803;
+--color-primary-darkest: #4A1C02;
 
 --color-secondary-default: #A8BE3F;
 --color-secondary-light: #C2D279;
@@ -162,6 +163,24 @@ font-family: 'ephesis-regular';
 font-style: normal;
 font-weight: normal;
 src: url('/fonts/ephesis-regular.woff2') format('woff2'); }
+
+/*
+* NOTO SERIF FONT
+*/
+
+@font-face {
+font-display: swap;
+font-family: 'noto-serif';
+font-style: normal;
+font-weight: normal;
+src: url('/fonts/noto-serif.woff2') format('woff2'); }
+
+@font-face {
+font-display: swap;
+font-family: 'noto-serif-italic';
+font-style: normal;
+font-weight: normal;
+src: url('/fonts/noto-serif-italic.woff2') format('woff2'); }
 
 
 /* ==========================================================================
@@ -313,7 +332,7 @@ TYPOGRAPHY COMPONENTS
 */
 
 h1, h2, h3, h4, h5, h6 {
-font-family: var(--font-family-default);
+font-family: var(--font-family-alt);
 font-style: normal;
 font-weight: normal;
 letter-spacing: 0;

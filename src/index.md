@@ -130,7 +130,7 @@ permalink: /index.html
 <div class="sn-colour-chip-large" style="background-color: var(--color-primary-default)"></div>
 <figcaption>
 <span>Primary colour</span>
-<span class="sn-colour-hex">#c27b52</span></figcaption>
+<span class="sn-colour-hex">#b84604</span></figcaption>
 </figure>
 
 <figure class="sn-colour">
@@ -140,9 +140,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Primary colours (light)</span>
-<span class="sn-colour-hex">#c27b52</span>
-<span class="sn-colour-hex">#e7caba</span>
-<span class="sn-colour-hex">#d4a386</span>
+<span class="sn-colour-hex">#b84604</span>
+<span class="sn-colour-hex">#e3b59b</span>
+<span class="sn-colour-hex">#cd7e4f</span>
 </figcaption>
 </figure>
 
@@ -153,9 +153,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Primary colours (dark)</span>
-<span class="sn-colour-hex">#c27b52</span>
-<span class="sn-colour-hex">#af6f4a</span>
-<span class="sn-colour-hex">#885639</span>
+<span class="sn-colour-hex">#b84604</span>
+<span class="sn-colour-hex">#4a1c02</span>
+<span class="sn-colour-hex">#933803</span>
 </figcaption>
 </figure>
 
@@ -314,28 +314,46 @@ permalink: /index.html
 
 <h2 class="sn-label">Signature typeface</h2>
 
-<p class="sn-display">Gloock</p>
+<p class="sn-display" style="font-family:var(--font-family-alt);">Gloock</p>
 
 <p>Gloock is our signature typeface. Gloock is a contemporary high-contrast serif typeface intended for display use. It draws inspiration from newspaper&#8217;s headlines but with a contemporary approach. Its main focus is the smooth relationship between the thin and thick strokes. It&#8217;s a perfect typeface for headlines and has a great performance anywhere in big sizes.</p>
 
 <hr data-function="spacer">
 
-<p><a href="/dl/gloock.zip" class="btn">Download trial fonts</a></p>
+<p><a href="/dl/gloock.zip" class="btn">Download fonts</a></p>
 
 <hr>
 
 <div>
 <div>
-<span class="sn-display">A</span>
-<span class="sn-display">a</span>
+<span class="sn-display" style="font-family:var(--font-family-alt);">A</span>
+<span class="sn-display" style="font-family:var(--font-family-alt);">a</span>
 </div>
 
-<p class="sn-alphabet">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z <br>1 2 3 4 5 6 7 8 9 0</p>
-<p>I&#8217;m Natasja, a beginner beekeeper sharing hive life, my beekeeping journey, and honey-inspired living.</p>
-<small>Gloock</small>
+<p class="sn-alphabet" style="font-family:var(--font-family-alt);">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z <br>1 2 3 4 5 6 7 8 9 0</p>
+<p style="font-family:var(--font-family-alt);">I&#8217;m Natasja, a beginner beekeeper sharing hive life, my beekeeping journey, and honey-inspired living.</p>
+<small style="font-family:var(--font-family-alt);">Gloock</small>
 </div><!-- one -->
 
 
+
+
+<hr>
+
+<h2 class="sn-label">Utility typeface</h2>
+
+<div>
+<div>
+<span class="sn-display" style="font-family:var(--font-family-default)">A</span>
+<span class="sn-display" style="font-family:var(--font-family-default)">a</span>
+</div>
+
+<p class="sn-alphabet" style="font-family:var(--font-family-default)">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z <br>1 2 3 4 5 6 7 8 9 0</p>
+<p style="font-size:var(--font-size-l);font-family:var(--font-family-default)">I&#8217;m Natasja, a beginner beekeeper sharing hive life, my beekeeping journey, and honey-inspired living.</p>
+<small>Ephesis</small>
+</div><!-- one -->
+
+<p data-align-h="right" data-size="xs"><a href="#bees-with-natasje">Back to top</a></p>
 
 <hr>
 
@@ -343,12 +361,12 @@ permalink: /index.html
 
 <div>
 <div>
-<span class="sn-display" style="font-family:var(--font-family-alt)">A</span>
-<span class="sn-display" style="font-family:var(--font-family-alt)">a</span>
+<span class="sn-display" style="font-family:var(--font-family-accent)">A</span>
+<span class="sn-display" style="font-family:var(--font-family-accent)">a</span>
 </div>
 
-<p class="sn-alphabet" style="font-family:var(--font-family-alt)">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z <br>1 2 3 4 5 6 7 8 9 0</p>
-<p style="font-size:var(--font-size-l);font-family:var(--font-family-alt)">I&#8217;m Natasja, a beginner beekeeper sharing hive life, my beekeeping journey, and honey-inspired living.</p>
+<p class="sn-alphabet" style="font-family:var(--font-family-accent)">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z <br>1 2 3 4 5 6 7 8 9 0</p>
+<p style="font-size:var(--font-size-l);font-family:var(--font-family-accent)">I&#8217;m Natasja, a beginner beekeeper sharing hive life, my beekeeping journey, and honey-inspired living.</p>
 <small>Ephesis</small>
 </div><!-- one -->
 
