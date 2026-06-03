@@ -674,11 +674,11 @@ Subscripts and superscripts: H<sub>2</sub>O, E = mc<sup>2</sup>, and
 
 <div>
 <div>
-<span class="sn-display">&#163;149</span>
+<span class="sn-display" style="font-family:var(--font-family-default)">&#163;149</span>
 </div>
 
-<p class="sn-alphabet">1 2 3 4 5 6 7 8 9 0</p>
-<small>Gloock</small>
+<p class="sn-alphabet" style="font-family:var(--font-family-default)">1 2 3 4 5 6 7 8 9 0</p>
+<small>Noto Serif</small>
 </div><!-- one -->
 
 <div>
@@ -687,8 +687,17 @@ Subscripts and superscripts: H<sub>2</sub>O, E = mc<sup>2</sup>, and
 </div>
 
 <p class="sn-alphabet" style="font-family:var(--font-family-alt)">1 2 3 4 5 6 7 8 9 0</p>
-<small>Ephesis</small>
+<small>Glook</small>
 </div><!-- two -->
+
+<div>
+<div>
+<span class="sn-display" style="font-family:var(--font-family-accent)">&#163;149</span>
+</div>
+
+<p class="sn-alphabet" style="font-family:var(--font-family-accent)">1 2 3 4 5 6 7 8 9 0</p>
+<small>Ephesis</small>
+</div><!-- three -->
 
 </div><!-- layout -->
 
