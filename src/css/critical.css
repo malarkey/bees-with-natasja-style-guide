@@ -30,11 +30,11 @@
 * Light theme with accent colors for visual hierarchy
 */
 
---color-primary-default: #B84604;
---color-primary-light: #CD7E4F;
---color-primary-lightest: #E3B59B;
---color-primary-dark: #933803;
---color-primary-darkest: #4A1C02;
+--color-primary-default: #B3AB80;
+--color-primary-light: #CAC4A6;
+--color-primary-lightest: #E1DDCC;
+--color-primary-dark: #8F8966;
+--color-primary-darkest: #6B674D;
 
 --color-secondary-default: #A8BE3F;
 --color-secondary-light: #C2D279;
@@ -50,14 +50,14 @@
 
 --color-background-default: #fff; /* Main background */
 --color-background-alt: #3C3122; /* Alternative background */
---color-base: #A49584; /* Darker background for contrast */
+--color-base: #E6E4DB; /* Darker background for contrast */
 --color-border: #EAD5BC; /* Border and secondary accent */
 
 --color-text-default: #3C3122; /* Primary text color */
 --color-text-alt: #F8F7F4; /* Text on dark backgrounds */
---color-text-link: var(--color-primary-default);
---color-text-link-hover: var(--color-primary-default);
---color-text-link-decoration: var(--color-primary-default);
+--color-text-link: var(--color-primary-dark);
+--color-text-link-hover: var(--color-primary-darkest);
+--color-text-link-decoration: var(--color-primary-dark);
 
 --color-positive: #2f7e67;
 --color-negative: #c71505;

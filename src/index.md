@@ -130,7 +130,7 @@ permalink: /index.html
 <div class="sn-colour-chip-large" style="background-color: var(--color-primary-default)"></div>
 <figcaption>
 <span>Primary colour</span>
-<span class="sn-colour-hex">#b84604</span></figcaption>
+<span class="sn-colour-hex">#b3ab80</span></figcaption>
 </figure>
 
 <figure class="sn-colour">
@@ -140,9 +140,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Primary colours (light)</span>
-<span class="sn-colour-hex">#b84604</span>
-<span class="sn-colour-hex">#e3b59b</span>
-<span class="sn-colour-hex">#cd7e4f</span>
+<span class="sn-colour-hex">#b3ab80</span>
+<span class="sn-colour-hex">#e1ddcc</span>
+<span class="sn-colour-hex">#cac4a6</span>
 </figcaption>
 </figure>
 
@@ -153,9 +153,9 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Primary colours (dark)</span>
-<span class="sn-colour-hex">#b84604</span>
-<span class="sn-colour-hex">#4a1c02</span>
-<span class="sn-colour-hex">#933803</span>
+<span class="sn-colour-hex">#b3ab80</span>
+<span class="sn-colour-hex">#8f8966</span>
+<span class="sn-colour-hex">#6b674d</span>
 </figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ permalink: /index.html
 </div>
 <figcaption>
 <span>Link colour</span>
-<span class="sn-colour-hex">#c27b52</span>
+<span class="sn-colour-hex">#6b674d</span>
 </figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ permalink: /index.html
 <div class="sn-colour-chip-small" style="background-color: var(--color-base)"></div>
 <figcaption>
 <span>Base colour</span>
-<span class="sn-colour-hex">#f7f0e2</span></figcaption>
+<span class="sn-colour-hex">#e6e4db</span></figcaption>
 </figure>
 
 <figure class="sn-colour">
